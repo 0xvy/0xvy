@@ -45,11 +45,8 @@ Inspired by Tech, rooted in simplicity, driven by depth.
 
 ☁️ GitHub is my second brain
 
-👁️ Banner View
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxvy/Oxvy/main/banner.png" alt="Banner">
-</p>
-
+👁️ Banner View  
+![Banner](https://raw.githubusercontent.com/Oxvy/Oxvy/main/banner.png)
 
 📫 Connect with Me
 🌐 [LinkedIn](https://www.linkedin.com/in/vansh-khatwani-542711329/)
