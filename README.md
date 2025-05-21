@@ -5,13 +5,13 @@
 ---
 ## 👾 About Creator
 
-> whoami
+> whoami -
 0xvy
 
-> role
+> role -
 Reality Engineer | Automation Architect | Creative Mode Enthusiast
 
-> mission
+> mission -
 Build systems. Unlock minds. Echo through time.
 
 ## 🧠 About This Repo
