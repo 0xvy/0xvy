@@ -1,17 +1,17 @@
 ## 🚀 0xvy — Creator Mode Activated
 
-** “Initializing... Workspace of Vansh Khatwani. System Stable. Curiosity: Infinite.” **
+ “Initializing... Workspace of Vansh Khatwani. System Stable. Curiosity: Infinite.” 
 
 ---
 ## 👾 About Creator
 
-> > whoami -
+>  whoami -
 0xvy
 
-> > role -
+>  role -
 Reality Engineer | Automation Architect | Creative Mode Enthusiast
 
-> > mission -
+>  mission -
 Build systems. Unlock minds. Echo through time.
 
 ---
