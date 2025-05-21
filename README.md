@@ -14,6 +14,8 @@ Reality Engineer | Automation Architect | Creative Mode Enthusiast
 > mission -
 Build systems. Unlock minds. Echo through time.
 
+---
+
 ## 🧠 About This Repo
 
 This is not just a GitHub repository — it's my personal digital lab.  
