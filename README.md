@@ -6,7 +6,7 @@
 ## 👾 About Creator
 
 >  whoami -
-Vansh
+Vansh Khatwani (aka Oxvy)
 
 >  role -
 Reality Engineer | Automation Architect | Creative Mode Enthusiast
